@@ -1,0 +1,8 @@
+Flask==0.12.2
+Flask-HTTPAuth==3.2.3
+itsdangerous==0.24
+MarkupSafe==1.0
+passlib==1.7.1
+pymongo
+unicodecsv
+flask_jwt
